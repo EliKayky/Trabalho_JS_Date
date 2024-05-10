@@ -1,4 +1,4 @@
-Claro, aqui está uma explicação para cada função no código:
+Aqui está uma explicação para cada função no código:
 
 1. **addEventListener("submit", function (event) {...})**: Esta função adiciona um ouvinte de evento ao formulário com o id "dataForm". Quando o formulário é submetido, a função dentro dela é executada. O parâmetro `event` representa o evento de submissão do formulário.
 
